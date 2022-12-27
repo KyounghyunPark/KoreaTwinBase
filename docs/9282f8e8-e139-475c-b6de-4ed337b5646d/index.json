@@ -1,0 +1,9 @@
+{
+    "dt-id": "https://dtid.org/0e120fb5-e931-4f2d-8aeb-5a9f371e3013",
+    "hosting-iri": "https://KyounghyunPark.github.io/KoreaTwinBase/9282f8e8-e139-475c-b6de-4ed337b5646d",
+    "name": "Robot arm 1",
+    "description": "Robot arm 1 of Turkish factory",
+    "baseurl": "https://KyounghyunPark.github.io/KoreaTwinBase",
+    "edit": "https://github.com/KyounghyunPark/KoreaTwinBase/edit/main/docs/9282f8e8-e139-475c-b6de-4ed337b5646d/index.yaml",
+    "edit-json": "https://github.com/KyounghyunPark/KoreaTwinBase/edit/main/docs/9282f8e8-e139-475c-b6de-4ed337b5646d/index.json"
+}
