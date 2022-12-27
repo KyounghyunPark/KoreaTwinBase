@@ -1,9 +1,9 @@
 dt-id: https://dtid.org/0d8a59d0-0742-4b77-899d-5ca0d4e22b1e
-hosting-iri: https://dtw.machinaide.twinbase.org/0d8a59d0-0742-4b77-899d-5ca0d4e22b1e
+hosting-iri: https://KyounghyunPark.github.io/KoreaTwinBase/0d8a59d0-0742-4b77-899d-5ca0d4e22b1e
 name: Netherlands factory
 description: Netherlands factory of the Machinaide project.
-baseurl: https://dtw.machinaide.twinbase.org
-edit: https://github.com/machinaide/twinbase/edit/main/docs/0d8a59d0-0742-4b77-899d-5ca0d4e22b1e/index.yaml
+baseurl: https://KyounghyunPark.github.io/KoreaTwinBase
+edit: https://github.com/KyounghyunPark/KoreaTwinBase/edit/main/docs/0d8a59d0-0742-4b77-899d-5ca0d4e22b1e/index.yaml
 relations:
 - dt-id: https://dtid.org/e0fd6ea0-a610-4680-9c75-2911f34f71b9
   relationType: parent
@@ -11,3 +11,4 @@ relations:
   relationType: child
 - dt-id: https://dtid.org/fe274bc5-2737-47e3-84fe-390592026f8e
   relationType: child
+edit-json: https://github.com/KyounghyunPark/KoreaTwinBase/edit/main/docs/0d8a59d0-0742-4b77-899d-5ca0d4e22b1e/index.json

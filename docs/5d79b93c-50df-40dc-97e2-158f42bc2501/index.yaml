@@ -1,9 +1,10 @@
 dt-id: https://dtid.org/5d79b93c-50df-40dc-97e2-158f42bc2501
-hosting-iri: https://dtw.machinaide.twinbase.org/5d79b93c-50df-40dc-97e2-158f42bc2501
+hosting-iri: https://KyounghyunPark.github.io/KoreaTwinBase/5d79b93c-50df-40dc-97e2-158f42bc2501
 name: Charging station
 description: Charging station located in Korea testbed
-baseurl: https://dtw.machinaide.twinbase.org
-edit: https://github.com/machinaide/twinbase/edit/main/docs/5d79b93c-50df-40dc-97e2-158f42bc2501/index.yaml
+baseurl: https://KyounghyunPark.github.io/KoreaTwinBase
+edit: https://github.com/KyounghyunPark/KoreaTwinBase/edit/main/docs/5d79b93c-50df-40dc-97e2-158f42bc2501/index.yaml
 relations:
 - dt-id: https://dtid.org/e5917d31-adc6-4ed5-9060-328fee349df8
   relationType: parent
+edit-json: https://github.com/KyounghyunPark/KoreaTwinBase/edit/main/docs/5d79b93c-50df-40dc-97e2-158f42bc2501/index.json

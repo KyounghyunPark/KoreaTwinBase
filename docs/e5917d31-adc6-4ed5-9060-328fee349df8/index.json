@@ -1,10 +1,10 @@
 {
     "dt-id": "https://dtid.org/e5917d31-adc6-4ed5-9060-328fee349df8",
-    "hosting-iri": "https://dtw.machinaide.twinbase.org/e5917d31-adc6-4ed5-9060-328fee349df8",
+    "hosting-iri": "https://KyounghyunPark.github.io/KoreaTwinBase/e5917d31-adc6-4ed5-9060-328fee349df8",
     "name": "Korea testbed",
     "description": "Korea testbed for the Machinaide project",
-    "baseurl": "https://dtw.machinaide.twinbase.org",
-    "edit": "https://github.com/machinaide/twinbase/edit/main/docs/e5917d31-adc6-4ed5-9060-328fee349df8/index.yaml",
+    "baseurl": "https://KyounghyunPark.github.io/KoreaTwinBase",
+    "edit": "https://github.com/KyounghyunPark/KoreaTwinBase/edit/main/docs/e5917d31-adc6-4ed5-9060-328fee349df8/index.yaml",
     "relations": [
         {
             "dt-id": "https://dtid.org/e0fd6ea0-a610-4680-9c75-2911f34f71b9",
@@ -30,5 +30,6 @@
             "dt-id": "https://dtid.org/b4f930cf-d2d4-4be6-b75d-c80717e6f87b",
             "relationType": "child"
         }
-    ]
+    ],
+    "edit-json": "https://github.com/KyounghyunPark/KoreaTwinBase/edit/main/docs/e5917d31-adc6-4ed5-9060-328fee349df8/index.json"
 }
