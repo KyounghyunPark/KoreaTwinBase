@@ -1,4 +1,7 @@
-dt-id: autoassign|https://dtid.org
-hosting-iri: autoassign
+dt-id: https://dtid.org/46e31faf-8c93-4a7e-b21b-b294587fcd4a
+hosting-iri: https://KyounghyunPark.github.io/KoreaTwinBase/46e31faf-8c93-4a7e-b21b-b294587fcd4a
 name: AMR3
 description: This is a Korea AMR3
+baseurl: https://KyounghyunPark.github.io/KoreaTwinBase
+edit: https://github.com/KyounghyunPark/KoreaTwinBase/edit/main/docs/46e31faf-8c93-4a7e-b21b-b294587fcd4a/index.yaml
+edit-json: https://github.com/KyounghyunPark/KoreaTwinBase/edit/main/docs/46e31faf-8c93-4a7e-b21b-b294587fcd4a/index.json
